@@ -1,5 +1,5 @@
 resorces:
   limits:
-    cpu: "500m"
-    memory: "512Mi"
+    cpu: "250m"
+    memory: "250Mi"
 
